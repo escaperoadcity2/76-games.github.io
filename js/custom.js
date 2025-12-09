@@ -20,7 +20,7 @@ function loadGoogleAnalytics(trackingId) {
 }
 
 // Usage
-loadGoogleAnalytics('G-89VL90BMQK');
+loadGoogleAnalytics('G-HZ8PQX49PK');
 
 /*
 
